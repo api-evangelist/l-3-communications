@@ -8,7 +8,7 @@ description: >-
   form L3Harris Technologies, which continues the legacy product lines and
   is now ranked among the top U.S. defense contractors. No public developer
   API has been documented.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Defense
