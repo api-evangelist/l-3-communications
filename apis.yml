@@ -25,6 +25,8 @@ access: 3rd-Party
 position: Consuming
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/l-3-communications-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/l3
   - type: Website
@@ -37,6 +39,8 @@ common:
     url: https://www.l3harris.com/investors
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/L3_Technologies
+  - url: https://www.l3harris.com/feeds/newsroom/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
