@@ -2,7 +2,9 @@
 title: US Air Force Selects L3Harris to Develop Digital Infrastructure for its Advanced
   Battle Management System Network
 url: https://www.l3harris.com/newsroom/press-release/2026/05/us-air-force-selects-l3harris-abms-network
-date: '2026-05-07'
+published: ''
+date_basis: harvested
+harvested: '2026-05-07'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

@@ -1,7 +1,9 @@
 ---
 title: 'Open, Connected, Decisive: the L3Harris hC2 Software Suite'
 url: https://www.l3harris.com/newsroom/editorial/2026/04/open-connected-decisive-l3harris-hc2-software-suite
-date: '2026-04-24'
+published: ''
+date_basis: harvested
+harvested: '2026-04-24'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

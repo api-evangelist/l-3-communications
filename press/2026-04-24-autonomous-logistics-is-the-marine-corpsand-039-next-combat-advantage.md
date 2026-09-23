@@ -1,7 +1,9 @@
 ---
 title: Autonomous Logistics is the Marine Corps&#039; Next Combat Advantage
 url: https://www.l3harris.com/newsroom/editorial/2026/04/autonomous-logistics-marine-corps-next-combat-advantage
-date: '2026-04-24'
+published: ''
+date_basis: harvested
+harvested: '2026-04-24'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

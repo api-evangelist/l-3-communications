@@ -1,7 +1,9 @@
 ---
 title: L3 Technologies 2026 Company Profile
 url: https://pitchbook.com/profiles/company/41238-73
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"L-3 Communications" press release artificial intelligence'
 position: 4
 source: serpapi-google

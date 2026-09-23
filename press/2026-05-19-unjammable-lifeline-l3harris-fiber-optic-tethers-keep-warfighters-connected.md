@@ -1,7 +1,9 @@
 ---
 title: 'Unjammable Lifeline: L3Harris Fiber-Optic Tethers Keep Warfighters Connected'
 url: https://www.l3harris.com/newsroom/editorial/2026/05/unjammable-lifeline-l3harris-fiber-optic-tethers-keep-warfighters
-date: '2026-05-19'
+published: ''
+date_basis: harvested
+harvested: '2026-05-19'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

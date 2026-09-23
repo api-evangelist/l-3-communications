@@ -1,7 +1,9 @@
 ---
 title: Lockheed Martin Adds L-3 Communications to Its Aerial ...
 url: https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martin-adds-l-3-communications-its-aerial-common-sensor
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"L-3 Communications" press release artificial intelligence'
 position: 1
 source: serpapi-google

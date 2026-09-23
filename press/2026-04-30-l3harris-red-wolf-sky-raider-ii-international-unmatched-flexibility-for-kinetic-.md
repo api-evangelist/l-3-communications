@@ -2,7 +2,9 @@
 title: 'L3Harris Red Wolf + SKY RAIDER II INTERNATIONAL: Unmatched Flexibility for
   Kinetic Strike, EW, ISR and Support Missions'
 url: https://www.l3harris.com/newsroom/editorial/2026/04/l3harris-red-wolf-sky-raider-ii-international-unmatched-flexibility
-date: '2026-04-30'
+published: ''
+date_basis: harvested
+harvested: '2026-04-30'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

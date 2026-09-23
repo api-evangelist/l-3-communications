@@ -1,7 +1,9 @@
 ---
 title: L3Harris to Boost Polish Navy Combat Power with Advanced Ship System
 url: https://www.l3harris.com/newsroom/press-release/2026/05/l3harris-boost-polish-navy-combat-power-advanced-ship-system
-date: '2026-05-05'
+published: ''
+date_basis: harvested
+harvested: '2026-05-05'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

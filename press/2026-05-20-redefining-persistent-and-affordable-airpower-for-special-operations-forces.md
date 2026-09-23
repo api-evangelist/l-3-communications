@@ -1,7 +1,9 @@
 ---
 title: Redefining Persistent and Affordable Airpower for Special Operations Forces
 url: https://www.l3harris.com/newsroom/editorial/2026/05/redefining-persistent-and-affordable-airpower-special-operations-forces
-date: '2026-05-20'
+published: ''
+date_basis: harvested
+harvested: '2026-05-20'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

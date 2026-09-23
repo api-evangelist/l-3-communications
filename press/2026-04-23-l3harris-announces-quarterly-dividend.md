@@ -1,7 +1,9 @@
 ---
 title: L3Harris Announces Quarterly Dividend
 url: https://www.l3harris.com/newsroom/press-release/2026/04/l3harris-announces-quarterly-dividend
-date: '2026-04-23'
+published: ''
+date_basis: harvested
+harvested: '2026-04-23'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

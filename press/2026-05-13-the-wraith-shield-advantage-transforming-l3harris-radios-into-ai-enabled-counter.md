@@ -2,7 +2,9 @@
 title: 'The Wraith Shield Advantage: Transforming L3Harris Radios into AI-Enabled
   Counter-UAS Sensors'
 url: https://www.l3harris.com/newsroom/editorial/2026/05/wraith-shield-advantage-transforming-l3harris-radios-ai-enabled-counter
-date: '2026-05-13'
+published: ''
+date_basis: harvested
+harvested: '2026-05-13'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

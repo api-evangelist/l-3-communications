@@ -1,7 +1,9 @@
 ---
 title: L3Harris to Present at Upcoming Investor Conference
 url: https://www.l3harris.com/newsroom/press-release/2026/05/l3harris-present-upcoming-investor-conference
-date: '2026-05-13'
+published: ''
+date_basis: harvested
+harvested: '2026-05-13'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

@@ -1,7 +1,9 @@
 ---
 title: 'From Payload to Platform: Autonomous ISR Where It Actually Matters'
 url: https://www.l3harris.com/newsroom/editorial/2026/05/payload-platform-autonomous-isr-where-it-actually-matters
-date: '2026-05-21'
+published: ''
+date_basis: harvested
+harvested: '2026-05-21'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

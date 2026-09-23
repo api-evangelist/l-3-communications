@@ -2,7 +2,9 @@
 title: L3Harris Announces Confidential Submission of Draft Registration Statement
   for Proposed Initial Public Offering of Missile Solutions Business
 url: https://www.l3harris.com/newsroom/press-release/2026/04/l3harris-announces-confidential-submission-draft-registration
-date: '2026-04-30'
+published: ''
+date_basis: harvested
+harvested: '2026-04-30'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

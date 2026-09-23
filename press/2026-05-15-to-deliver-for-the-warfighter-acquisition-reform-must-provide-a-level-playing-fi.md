@@ -2,7 +2,9 @@
 title: To Deliver for the Warfighter, Acquisition Reform Must Provide a Level Playing
   Field
 url: https://www.l3harris.com/newsroom/editorial/2026/05/deliver-warfighter-acquisition-reform-must-provide-level-playing-field
-date: '2026-05-15'
+published: ''
+date_basis: harvested
+harvested: '2026-05-15'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

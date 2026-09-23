@@ -1,7 +1,9 @@
 ---
 title: VAMPIRE Confirms Integrated Capability During Live Exercises
 url: https://www.l3harris.com/newsroom/editorial/2026/05/vampire-confirms-integrated-capability-during-live-exercises
-date: '2026-05-20'
+published: ''
+date_basis: harvested
+harvested: '2026-05-20'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---

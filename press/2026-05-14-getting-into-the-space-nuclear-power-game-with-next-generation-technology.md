@@ -1,7 +1,9 @@
 ---
 title: Getting into the Space Nuclear Power Game with Next-Generation Technology
 url: https://www.l3harris.com/newsroom/editorial/2026/05/getting-space-nuclear-power-game-next-generation-technology
-date: '2026-05-14'
+published: ''
+date_basis: harvested
+harvested: '2026-05-14'
 author: L3Harris Technologies, Inc.
 feed_url: https://www.l3harris.com/feeds/newsroom/rss.xml
 ---
